@@ -1,0 +1,11 @@
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Release\net8.0\linux-x64\PubTmp\Out\cartmngr-api
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.Development.json
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Release\net8.0\linux-x64\PubTmp\Out\appsettings.json
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Release\net8.0\linux-x64\PubTmp\Out\cartmngr-api.dll
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Release\net8.0\linux-x64\PubTmp\Out\cartmngr-api.deps.json
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Release\net8.0\linux-x64\PubTmp\Out\cartmngr-api.runtimeconfig.json
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Release\net8.0\linux-x64\PubTmp\Out\cartmngr-api.pdb
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Release\net8.0\linux-x64\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Release\net8.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

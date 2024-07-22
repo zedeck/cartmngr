@@ -1,0 +1,11 @@
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Docker\publish\cartmngr-api.exe
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Docker\publish\appsettings.Development.json
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Docker\publish\appsettings.json
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Docker\publish\cartmngr-api.dll
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Docker\publish\cartmngr-api.deps.json
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Docker\publish\cartmngr-api.runtimeconfig.json
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Docker\publish\cartmngr-api.pdb
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Docker\publish\Microsoft.OpenApi.dll
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

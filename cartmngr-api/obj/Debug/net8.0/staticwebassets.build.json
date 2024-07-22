@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sFtJEOEQzS6l/NVp9ToqcjGeG6fUJ5+1Xdb+gr0xRU8=",
+  "Source": "cartmngr-api",
+  "BasePath": "_content/cartmngr-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
