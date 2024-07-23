@@ -30,3 +30,4 @@ D:\Development\DotNet\cartmngr\cartmngr-api\obj\Debug\net8.0\refint\cartmngr-api
 D:\Development\DotNet\cartmngr\cartmngr-api\obj\Debug\net8.0\cartmngr-api.pdb
 D:\Development\DotNet\cartmngr\cartmngr-api\obj\Debug\net8.0\cartmngr-api.genruntimeconfig.cache
 D:\Development\DotNet\cartmngr\cartmngr-api\obj\Debug\net8.0\ref\cartmngr-api.dll
+D:\Development\DotNet\cartmngr\cartmngr-api\obj\Debug\net8.0\cartmngr-api.sourcelink.json

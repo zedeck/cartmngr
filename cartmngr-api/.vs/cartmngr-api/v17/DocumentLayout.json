@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "D:\\Development\\DotNet\\cartmngr\\cartmngr-api\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{262AB94C-655C-45AB-A1E4-36606B716BA6}|cartmngr-api.csproj|d:\\development\\dotnet\\cartmngr\\cartmngr-api\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262AB94C-655C-45AB-A1E4-36606B716BA6}|cartmngr-api.csproj|solutionrelative:controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262AB94C-655C-45AB-A1E4-36606B716BA6}|cartmngr-api.csproj|d:\\development\\dotnet\\cartmngr\\cartmngr-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262AB94C-655C-45AB-A1E4-36606B716BA6}|cartmngr-api.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262AB94C-655C-45AB-A1E4-36606B716BA6}|cartmngr-api.csproj|d:\\development\\dotnet\\cartmngr\\cartmngr-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{262AB94C-655C-45AB-A1E4-36606B716BA6}|cartmngr-api.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262AB94C-655C-45AB-A1E4-36606B716BA6}|cartmngr-api.csproj|d:\\development\\dotnet\\cartmngr\\cartmngr-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{262AB94C-655C-45AB-A1E4-36606B716BA6}|cartmngr-api.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262AB94C-655C-45AB-A1E4-36606B716BA6}|cartmngr-api.csproj|d:\\development\\dotnet\\cartmngr\\cartmngr-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{262AB94C-655C-45AB-A1E4-36606B716BA6}|cartmngr-api.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262AB94C-655C-45AB-A1E4-36606B716BA6}|cartmngr-api.csproj|d:\\development\\dotnet\\cartmngr\\cartmngr-api\\models\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262AB94C-655C-45AB-A1E4-36606B716BA6}|cartmngr-api.csproj|solutionrelative:models\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{262AB94C-655C-45AB-A1E4-36606B716BA6}|cartmngr-api.csproj|d:\\development\\dotnet\\cartmngr\\cartmngr-api\\models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{262AB94C-655C-45AB-A1E4-36606B716BA6}|cartmngr-api.csproj|solutionrelative:models\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{262AB94C-655C-45AB-A1E4-36606B716BA6}|cartmngr-api.csproj|d:\\development\\dotnet\\cartmngr\\cartmngr-api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{262AB94C-655C-45AB-A1E4-36606B716BA6}|cartmngr-api.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
@@ -14,11 +42,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Development\\DotNet\\cartmngr\\cartmngr-api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "D:\\Development\\DotNet\\cartmngr\\cartmngr-api\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T16:27:05.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Development\\DotNet\\cartmngr\\cartmngr-api\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Development\\DotNet\\cartmngr\\cartmngr-api\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T16:26:59.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Development\\DotNet\\cartmngr\\cartmngr-api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "D:\\Development\\DotNet\\cartmngr\\cartmngr-api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-22T16:26:29.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Development\\DotNet\\cartmngr\\cartmngr-api\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Development\\DotNet\\cartmngr\\cartmngr-api\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAQwB8AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T16:25:03.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Development\\DotNet\\cartmngr\\cartmngr-api\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Development\\DotNet\\cartmngr\\cartmngr-api\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:56:27.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "D:\\Development\\DotNet\\cartmngr\\cartmngr-api\\Models\\Signup.cs",
+              "RelativeDocumentMoniker": "Models\\Signup.cs",
+              "ToolTip": "D:\\Development\\DotNet\\cartmngr\\cartmngr-api\\Models\\Signup.cs",
+              "RelativeToolTip": "Models\\Signup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:36:03.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Signin.cs",
+              "DocumentMoniker": "D:\\Development\\DotNet\\cartmngr\\cartmngr-api\\Models\\Signin.cs",
+              "RelativeDocumentMoniker": "Models\\Signin.cs",
+              "ToolTip": "D:\\Development\\DotNet\\cartmngr\\cartmngr-api\\Models\\Signin.cs",
+              "RelativeToolTip": "Models\\Signin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:35:51.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Dockerfile",
               "DocumentMoniker": "D:\\Development\\DotNet\\cartmngr\\cartmngr-api\\Dockerfile",
               "RelativeDocumentMoniker": "Dockerfile",

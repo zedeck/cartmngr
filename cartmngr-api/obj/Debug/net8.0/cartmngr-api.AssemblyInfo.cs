@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("cartmngr-api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b458e3df47cca13e394a2a73937645655657a662")]
 [assembly: System.Reflection.AssemblyProductAttribute("cartmngr-api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("cartmngr-api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
